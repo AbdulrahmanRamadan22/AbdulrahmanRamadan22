@@ -27,11 +27,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
-![Object-Oriented-Programming(OOP)](https://img.shields.io/badge/-Object-Oriented-Programming(OOP)-05122A?style=flat&logo=Object-Oriented-Programming(OOP)&logoColor=007ACC)&nbsp;
-
-
-
- 
+![Object-Oriented-Programming(OOP)](https://img.shields.io/badge/-Object-Oriented-Programming(OOP)-05122A?style=flat&logo=Object-Oriented-Programming(OOP))&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
