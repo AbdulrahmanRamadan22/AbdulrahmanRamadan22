@@ -36,6 +36,5 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanramadan&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
 
