@@ -24,10 +24,11 @@
 
 <a href="https://linkedin.com/in/abdelrahman-ramadan-5a5700247/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ramadan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href=abdulrahmanramadan22@gmail.com target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://gmail.com/abdulrahmanramadan22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ramadan-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/-abdulrahmanramadan22@gmail.com-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/>
+
+
 
 
 <a href="https://web.facebook.com/saha.reka.5/?locale=ar_AR" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Ramadan-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
