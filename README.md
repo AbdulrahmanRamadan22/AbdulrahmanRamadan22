@@ -22,6 +22,9 @@
 <a href="https://github.com/AbdulrahmanRamadan22">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://abdelrahmanramadan.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -36,6 +39,7 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
   final String role    = "Flutter Developer";
   final String base    = "Cairo, Egypt 🇪🇬";
   final String degree  = "M.Sc. Computer Science — Excellent (85%)";
+  final String portfolio = "https://abdelrahmanramadan.netlify.app/";
 
   final List<String> expertise = [
     "Cross-platform mobile apps (iOS & Android)",
@@ -225,6 +229,10 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 &nbsp;
 <a href="https://github.com/AbdulrahmanRamadan22">
   <img src="https://img.shields.io/badge/GitHub-AbdulrahmanRamadan22-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://abdelrahmanramadan.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-abdelrahmanramadan.netlify.app-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <br/><br/>
