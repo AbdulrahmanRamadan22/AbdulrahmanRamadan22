@@ -174,16 +174,19 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 ---
 
-
-
-
 ## 💼 Experience
 
 ```
 🟦 Flutter Developer (Part-Time)        Wratil                Mar 2026 – Present
 🟦 Flutter Developer (Part-Time)        Hala Bakeries ERP     Dec 2025 – Feb 2026
-🟧 Flutter Developer (Intern)           Instant Software      Sep 2024 – Oct 2024                                         
+🟧 Flutter Developer (Intern)           Instant Software      Sep 2024 – Oct 2024
+
+ 
+```
+
 ---
+
+
 
 ## 📊 GitHub Stats
 
