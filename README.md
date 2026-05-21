@@ -66,9 +66,43 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 | | | | |
 |:---:|:---:|:---:|:---:|
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| ![Clean Arch](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=flat-square&logo=buffer&logoColor=white) | ![MVVM](https://img.shields.io/badge/MVVM-00B4D8?style=flat-square&logo=buffer&logoColor=white) | ![SOLID](https://img.shields.io/badge/SOLID_Principles-10B981?style=flat-square&logo=checkmarx&logoColor=white) | ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![Dio](https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![Clean Arch](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=flat-square&logo=buffer&logoColor=white) | ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Dio](https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+### 🏗️ Architecture & State
+<p>
+  <img src="https://img.shields.io/badge/BLoC%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-00B4D8?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-10B981?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
+
+### 🌐 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=for-the-badge&logo=agora&logoColor=white"/>
+</p>
+
+### 🗄️ Local Storage
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secure_Storage-EF4444?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+</p>
+
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 </div>
 
@@ -183,13 +217,12 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanRamadan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06b6d4&icon_color=3b82f6&text_color=ffffff&ring_color=8b5cf6"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanRamadan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=ffffff&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanRamadan22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=3b82f6&text_color=ffffff&ring_color=8b5cf6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanRamadan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=ffffff&langs_count=6" height="180"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=AbdulrahmanRamadan22&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanRamadan22&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4" width="60%"/>
 
 <br/><br/>
 
