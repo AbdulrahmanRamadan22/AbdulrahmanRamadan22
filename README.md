@@ -70,40 +70,13 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 <div align="center">
 
-**📱 Core**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**🏗️ Architecture & State**
-
-![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge&logo=buffer&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-0891b2?style=for-the-badge&logo=buffer&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-**🌐 APIs & Real-Time**
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=for-the-badge&logo=agora&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**🗄️ Storage & Security**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SharedPreferences](https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SecureStorage](https://img.shields.io/badge/Secure_Storage-EF4444?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-**🔧 DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Category | Technologies |
+|:---:|:---|
+| **📱 Core** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **🏗️ Architecture** | ![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=flat-square&logo=flutter&logoColor=white) ![Clean Arch](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=flat-square&logo=buffer&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-0891b2?style=flat-square&logo=buffer&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-10B981?style=flat-square&logo=checkmarx&logoColor=white) |
+| **🌐 APIs & Real-Time** | ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Dio](https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=flat-square&logo=dart&logoColor=white) ![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **🗄️ Storage** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SharedPrefs](https://img.shields.io/badge/SharedPrefs-02569B?style=flat-square&logo=flutter&logoColor=white) ![SecureStorage](https://img.shields.io/badge/Secure_Storage-EF4444?style=flat-square&logo=letsencrypt&logoColor=white) |
+| **🔧 Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
