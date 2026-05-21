@@ -59,21 +59,7 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanRamadan22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=06b6d4&icon_color=3b82f6&text_color=ffffff" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanRamadan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=6" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AbdulrahmanRamadan22&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=3b82f6&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=6b7280" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ### 🏗️ Architecture & State
 <p>
