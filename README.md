@@ -203,6 +203,19 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 ## 📊 GitHub Stats
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanRamadan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanRamadan22&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulrahmanRamadan22&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanRamadan22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=3b82f6&text_color=ffffff&ring_color=8b5cf6" height="180"/>
