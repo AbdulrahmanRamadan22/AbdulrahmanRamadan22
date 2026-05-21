@@ -59,18 +59,6 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| ![Clean Arch](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=flat-square&logo=buffer&logoColor=white) | ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Dio](https://img.shields.io/badge/Retrofit%2FDio-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white) |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
-
 ### 🏗️ Architecture & State
 <p>
   <img src="https://img.shields.io/badge/BLoC%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
