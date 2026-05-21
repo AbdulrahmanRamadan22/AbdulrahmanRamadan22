@@ -174,31 +174,15 @@ class AbdelrahmanRamadan extends FlutterDeveloper {
 
 ---
 
-<div align="center">
 
-### 🛒 E-Commerce App
-*Sep 2023 – Feb 2024*
 
-</div>
-
-> Mobile storefront with product listings, cart, delivery tracking, and **Google Maps** integration for address mapping.
-
-`Flutter` `GetX` `Firebase` `REST APIs` `SQFlite` `Google Maps`
-
----
 
 ## 💼 Experience
 
 ```
 🟦 Flutter Developer (Part-Time)        Wratil                Mar 2026 – Present
 🟦 Flutter Developer (Part-Time)        Hala Bakeries ERP     Dec 2025 – Feb 2026
-🟧 Flutter Developer (Intern)           Instant Software      Sep 2024 – Oct 2024
-                                         Solutions
-   ├── ↑ User engagement by 25%
-   ├── ↓ App crashes by 30%
-   └── ↓ Code redundancy by 40%
-```
-
+🟧 Flutter Developer (Intern)           Instant Software      Sep 2024 – Oct 2024                                         
 ---
 
 ## 📊 GitHub Stats
